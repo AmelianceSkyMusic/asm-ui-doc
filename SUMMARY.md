@@ -1,3 +1,15 @@
 # Table of contents
 
-* [Page 1](README.md)
+## CSS
+
+* [CSS](README.md)
+  * [Start](css/css/start.md)
+* [style.scss](css/style.scss.md)
+
+## HTML
+
+* [Page 4](html/page-4.md)
+
+## TS
+
+* [Підключення стилів](ts/pidklyuchennya-stiliv.md)
